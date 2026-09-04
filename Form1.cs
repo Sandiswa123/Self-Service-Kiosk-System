@@ -239,12 +239,12 @@ namespace FreshMart_Self_Service_kiosk
             checkoutForm.Show();
             this.Hide();
         }
-
+        
         private void frmFreshmartSelfServiceKiosk_Load(object sender, EventArgs e)
         {
 
         }
-
+        
 
 
         
