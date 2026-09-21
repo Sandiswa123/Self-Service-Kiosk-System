@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\APIcheck\bin\Debug\APIcheck.exe.config
+C:\Users\LENOVO\source\repos\APIcheck\bin\Debug\APIcheck.exe
+C:\Users\LENOVO\source\repos\APIcheck\bin\Debug\APIcheck.pdb
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.Form1.resources
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.exe
+C:\Users\LENOVO\source\repos\APIcheck\obj\Debug\APIcheck.pdb
