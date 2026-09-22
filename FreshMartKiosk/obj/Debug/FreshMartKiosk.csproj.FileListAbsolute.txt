@@ -1,0 +1,9 @@
+C:\FreshMart\FreshMartKiosk\bin\Debug\FreshMartKiosk.exe.config
+C:\FreshMart\FreshMartKiosk\bin\Debug\FreshMartKiosk.exe
+C:\FreshMart\FreshMartKiosk\bin\Debug\FreshMartKiosk.pdb
+C:\FreshMart\FreshMartKiosk\obj\Debug\FreshMartKiosk.csproj.AssemblyReference.cache
+C:\FreshMart\FreshMartKiosk\obj\Debug\FreshMartKiosk.Properties.Resources.resources
+C:\FreshMart\FreshMartKiosk\obj\Debug\FreshMartKiosk.csproj.GenerateResource.cache
+C:\FreshMart\FreshMartKiosk\obj\Debug\FreshMartKiosk.csproj.CoreCompileInputs.cache
+C:\FreshMart\FreshMartKiosk\obj\Debug\FreshMartKiosk.exe
+C:\FreshMart\FreshMartKiosk\obj\Debug\FreshMartKiosk.pdb
